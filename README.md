@@ -1,16 +1,18 @@
-# HR Analytics Data Analysis & Interactive Power BI Dashboard
+# HR Analytics Workforce Dynamics & Interactive Excel Dashboard
 
 ## Project Overview
-This business intelligence project transforms raw human resource datasets into a dynamic, executive-level Power BI Dashboard. The primary objective is to empower HR leaders and stakeholders to monitor employee turnover, analyze attrition factors, and drive data-backed workforce planning strategies.<img width="1920" height="816" alt="Screenshot 2026-05-23 204412" src="https://github.com/user-attachments/assets/39a77c1f-a814-4d82-814f-193543fd8994" />
+This human resource analytics project focuses on converting complex workforce data into a highly interactive, corporate-grade dashboard built entirely within **Microsoft Excel**. The primary objective is to empower HR managers and leadership to analyze employee turnover, track dynamic retention factors, and monitor key demographic distributions instantly.<img width="1920" height="816" alt="Screenshot 2026-05-23 204412" src="https://github.com/user-attachments/assets/d4831cfb-4a65-4870-b0b6-d8bd5df84f1a" />
 
 
 
 ---
 
-## Technical Features & Solutions Implemented
-* **Data Modeling & ETL:** Cleaned disparate employee data, handled null values, and established an optimized Star-Schema data model within Power Query.
-* **Advanced DAX Formulas:** Engineered scalable DAX measures to compute complex KPIs, dynamic time-intelligence calculations, and conditional attrition percentages.
-* **UI/UX & Visual Hierarchy:** Designed a clean visual layout using dark/light contrast themes, custom navigation elements, integrated tooltips, and slicers for seamless user exploration.
+## Technical Features & Excel Solutions Implemented
+* **Data Cleaning & Power Query:** Utilized Power Query to handle null entries, standardize HR metrics, and format dense rows into structured transactional data.
+* **Dynamic Pivot Tables & Formulations:** Engineered robust Pivot Tables and advanced Excel statistical formulas to aggregate dynamic attrition percentages and department breakdown analysis.
+* **Professional Chart Layouts:** Custom-designed and structured specialized visuals to showcase attrition trends alongside employee satisfaction scores.
+* **Slicer-Driven Control Panel:** Integrated synchronized Excel Slicers for rapid multi-dimensional cross-filtering (by department, role, or duration), improving user accessibility.
+* **KPI Metric Cards:** Designed clear, prominent embedded summary block cards to showcase corporate headcount and overall retention rates at a glance.
 
-## Business Value
-This automated reporting asset eliminates manual data compilation across fragmented spreadsheets, enabling management to immediately spot operational trends and actively improve retention strategies.
+## Business Value & Insights
+By replacing traditional raw tracking spreadsheets with this cohesive visual report, this Excel dashboard automates workforce monitoring, allowing stakeholders to quickly spot turnover triggers and actively improve corporate retention strategies.
